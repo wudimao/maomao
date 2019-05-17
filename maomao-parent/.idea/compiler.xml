@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maomao-pojo" />
+        <module name="maomao-manager-web" />
+        <module name="maomao-content-service" />
+        <module name="maomao-content-interface" />
+        <module name="maomao-sellergoods-interface" />
+        <module name="maomao-portal-web" />
+        <module name="maomao-shop-web" />
+        <module name="maomao-sellergoods-service" />
+        <module name="maomao-dao" />
+        <module name="maomao-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

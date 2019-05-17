@@ -1,0 +1,13 @@
+com\maomao\manager\controller\loginController.class
+com\maomao\manager\controller\SpecificationOptionController.class
+com\maomao\manager\controller\ContentCategoryController.class
+com\maomao\manager\controller\GoodsController.class
+com\maomao\manager\controller\ContentController.class
+com\maomao\manager\controller\UpLoadController.class
+com\maomao\manager\controller\ItemCatController.class
+com\maomao\manager\controller\ItemController.class
+com\maomao\manager\controller\GoodsDescController.class
+com\maomao\manager\controller\SellerController.class
+com\maomao\manager\controller\BrandController.class
+com\maomao\manager\controller\SpecificationController.class
+com\maomao\manager\controller\TypeTemplateController.class

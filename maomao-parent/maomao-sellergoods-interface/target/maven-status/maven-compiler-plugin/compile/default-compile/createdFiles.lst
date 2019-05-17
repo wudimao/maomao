@@ -1,0 +1,9 @@
+com\maomao\sellergoods\service\GoodsDescService.class
+com\maomao\sellergoods\service\GoodsService.class
+com\maomao\sellergoods\service\ItemCatService.class
+com\maomao\sellergoods\service\BrandService.class
+com\maomao\sellergoods\service\SpecificationService.class
+com\maomao\sellergoods\service\ItemService.class
+com\maomao\sellergoods\service\TypeTemplateService.class
+com\maomao\sellergoods\service\SellerService.class
+com\maomao\sellergoods\service\SpecificationOptionService.class
